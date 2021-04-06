@@ -1,0 +1,21 @@
+/* Copy and paste any or all of these css entries into your custom.css file inside your
+ * css folder. The functions are annotated to make things as easy as possible for you.
+ * Use any colors you want! For example - "http://htmlcolorcodes.com/color-picker/"
+ * Pick your color, copy and paste the HEX number. Example - #62FF00 = bright green.
+ */
+
+.MMM-Memes .header {
+  color: #50F8F4;                    /* Color the information text. Default is white. */
+  text-align: center;                /* Align the information text. (left, center, right) */
+  /*  display: none; */              /* Uncomment if you don't want information text */
+}
+
+.MMM-Memes .headline {
+  color: #white;                     /* Color the information text. Default is white. */
+  text-align: center;                /* Align the information text. (left, center, right) */
+  /*  display: none; */              /* Uncomment if you don't want information text */
+}
+
+.MMM-Memes .photo {
+  max-width: 300px;
+}
