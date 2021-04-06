@@ -19,7 +19,7 @@
 * No API key needed! No Dependencies! No kidding!
 
 ## Config.js entry and options
-
+```
 {
           disabled: f,
  module: "MMM-Memes",
@@ -32,3 +32,4 @@
    rotateInterval: 5 * 60 * 1000,
  }
 },
+```
